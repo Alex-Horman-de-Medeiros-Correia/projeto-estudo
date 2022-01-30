@@ -1,0 +1,49 @@
+body {
+    background-image: url(/celestial-2.jpg);
+}
+
+.title {
+    background-color: purple;
+    border: 3px solid white;
+    border-radius: 60px;
+    color: white;
+    font-family: monospace;
+    font-size: xx-large;
+}
+
+.center {
+    padding: 10px;
+    text-align: center;
+}
+
+.secaoCarros {
+    padding-top: 20px;
+    text-align: left;
+}
+
+.carro1 {
+    margin-left: 0px;
+    background-image: url(/PikPng.com_nave-png_3840663.png);
+    height: 125px;
+    width: 215px;
+    background-size: cover;
+    background-position: center;
+}
+
+.carro2 {
+    margin-left: 0px;
+    background-image: url(/nave2.png);
+    height: 125px;
+    width: 215px;
+    background-size: cover;
+    background-position: center;
+}
+
+.botaoClass {
+    background-color: white;
+    color: purple;
+    font-size: 20px;
+    font-family: cursive;
+    border-radius: 30px;
+    padding: 10px 50px;
+}
